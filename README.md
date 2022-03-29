@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Mi nombre es Gonzalo.
+Mi nombre es Gonzalo pero puedes llamarme Tonchi.
 
 En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológina Nacional FRRo y de forma autodidacta me centro en aprender y mejorar mis habilidades como Frontend Developer.
 
