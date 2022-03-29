@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hola 👋
 
-<!--
-**tonchiserra/tonchiserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Gonzalo.
 
-Here are some ideas to get you started:
+En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológina Nacional FRRo y de forma autodidacta me centro en aprender y mejorar mis habilidades como Frontend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Relevamiento de requerimientos y análisis de sistemas con buenas prácticas UML.
+* Diseño UX/UI con Figma, AxureRP, IBM Rational SM aplicando patrón MVC.
+* Desarrollo de aplicaciones web con con HTML, CSS, JavaScript, Redux, React.js y todo su ecosistema para el frontend y Java para el backend y conexión a BD.
+* Modelado de Diagramas Entidad Relación y Modelo Relacional de Bases de Datos con MySQL.
+* Manejo de versionado de código con Git y GitHub.
+
+## Contacto
+
+* Email: serragonzalo1@gmail.com
+* Portafolio web: [https://gserra.netlify.app](https://gserra.netlify.app).
