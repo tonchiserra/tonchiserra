@@ -9,11 +9,12 @@ En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Informació
 Gracias a mis estudios en la universidad tengo la capacidad de:
 * Realizar relevamiento de requerimientos y análisis de sistemas con buenas prácticas UML.
 * Diseñar sistemas aplicando el patrón MVC y realizar diseño UX/UI.
-* Desarrollar aplicaciones web con \textbf{HTML}, \textbf{CSS}, \textbf{JavaScript} y \textbf{Java} utilizando JSP y Servlets.
-* Modelar diagramas entidad relación y su transformación a  modelo relacional para Bases de Datos \textbf{SQL} con \textbf{MySQL}.
-* Manejar y controlar el versionado de código con \textbf{Git} y \textbf{GitHub}.
+* Desarrollar aplicaciones web con **HTML**, **CSS**, **JavaScript** y **Java** utilizando JSP y Servlets.
+* Modelar diagramas entidad relación y su transformación a  modelo relacional para Bases de Datos **SQL** con **MySQL**.
+* Manejar y controlar el versionado de código con **Git** y **GitHub**.
 
-Si bien incursioné en todo el ecosistema de \textbf{React.js}, las vueltas de la vida me llevaron a trabajar con \textbf{Shopify Liquid}, \textbf{Sass}, \textbf{Vue.js} y \textbf{TypeScript} para crear increíbles tiendas virtuales.
+Si bien incursioné en todo el ecosistema de **React.js**, las vueltas de la vida me llevaron a trabajar con **Shopify Liquid**, **Sass**, **Vue.js** y 
+**TypeScript** para crear increíbles tiendas virtuales.
 
 ## 📞 Contacto
 
