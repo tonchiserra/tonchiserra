@@ -2,13 +2,13 @@
 
 Mi nombre es Gonzalo pero puedes llamarme Tonchi.
 
-En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológina Nacional FRRo y de forma autodidacta me centro en aprender y mejorar mis habilidades como Web Developer.
+En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológina Nacional FRRo y aunque luego de 5 años la abandoné, me ha dado las bases necesarias para luego aprender de forma autodidacta y mejorar mis habilidades como Web Developer.
 
 ## 🧠 Skills
 
 Tengo la capacidad de:
-* Realizar relevamiento de requerimientos y análisis de sistemas con buenas prácticas UML.
-* Diseñar sistemas aplicando el patrón MVC y realizar diseño UX/UI.
+* Desarrollar y dar soporte a tiendas **Shopify** utilizando **Liquid**.
+* Diseñar sistemas aplicando el patrón MVC y arquitectura "Vertical Slice".
 * Desarrollar aplicaciones web full stack con **HTML**, **CSS/Sass**, **JavaScript**, **TypeScript**, **Vue.js** y **NodeJS**.
 * Modelar diagramas entidad relación y su transformación a  modelo relacional para Bases de Datos **SQL** con **MySQL**.
 * Manejar y controlar el versionado de código con **Git** y **GitHub**.
