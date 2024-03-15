@@ -8,7 +8,7 @@ En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Informació
 
 Tengo la capacidad de:
 * Desarrollar y dar soporte a tiendas **Shopify** utilizando **Liquid**.
-* Diseñar sistemas aplicando el patrón MVC y arquitectura "Vertical Slice".
+* Diseñar sistemas aplicando la arquitectura MVC y el enfoque "Vertical Slice".
 * Desarrollar aplicaciones web full stack con **HTML**, **CSS/Sass**, **JavaScript**, **TypeScript**, **Vue.js** y **NodeJS**.
 * Modelar diagramas entidad relación y su transformación a  modelo relacional para Bases de Datos **SQL** con **MySQL**.
 * Manejar y controlar el versionado de código con **Git** y **GitHub**.
