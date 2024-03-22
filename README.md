@@ -8,9 +8,9 @@ En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Informació
 
 Tengo la capacidad de:
 * Desarrollar y dar soporte a tiendas **Shopify** utilizando **Liquid**.
+* Desarrollar y dar soporte a checkouts de Shopify a través de **Shopify Functions** y **Checkout UI Extensions**.
 * Diseñar sistemas aplicando la arquitectura MVC y el enfoque "Vertical Slice".
-* Desarrollar aplicaciones web full stack con **HTML**, **CSS/Sass**, **JavaScript**, **TypeScript**, **Vue.js** y **NodeJS**.
-* Modelar diagramas entidad relación y su transformación a  modelo relacional para Bases de Datos **SQL** con **MySQL**.
+* Desarrollar aplicaciones web full-stack con **HTML**, **CSS/Sass**, **JavaScript**, **TypeScript**, **Vue.js** y **NodeJS**.
 * Manejar y controlar el versionado de código con **Git** y **GitHub**.
 
 Si bien incursioné en varios frameworks y librerías como **React.js** o **Angular.js**, las vueltas de la vida me llevaron a trabajar con **Shopify Liquid**, **Vue.js** y **TypeScript** para crear increíbles tiendas virtuales.
