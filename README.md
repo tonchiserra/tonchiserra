@@ -1,20 +1,35 @@
-### 👋 Hola
+### Hey! I'm Gonzalo 👋
 
-Mi nombre es Gonzalo pero puedes llamarme Tonchi.
+Full-stack web developer specializing in ecommerce.
 
-En 2019 comencé a estudiar la carrera de Ingeniería en Sistemas de Información en la Universidad Tecnológina Nacional FRRo y aunque luego de 5 años la abandoné, me ha dado las bases necesarias para luego aprender de forma autodidacta y mejorar mis habilidades como Web Developer.
+#### 🛒 Ecommerce
 
-## 🧠 Skills
+- **Shopify** — Store development with Liquid · Theme customization · Shopify Functions · Checkout UI Extensions · App development with Remix · Integrations with MercadoPago & Andreani
+- **Tienda Nube** — Store development · Theme customization · App development on its ecosystem
 
-Tengo la capacidad de:
-* Desarrollar y dar soporte a tiendas **Shopify** utilizando **Liquid**.
-* Desarrollar y dar soporte a checkouts de Shopify a través de **Shopify Functions** y **Checkout UI Extensions**.
-* Desarrollar y dar soporte a aplicaciones de Shopify utilizando **Remix** o **React Router**.
-* Diseñar sistemas aplicando la arquitectura MVC y el enfoque "Vertical Slice".
-* Desarrollar aplicaciones web full-stack con **HTML**, **CSS/Sass**, **JavaScript**, **TypeScript**, **React.js** y **NodeJS**.
-* Manejar y controlar el versionado de código con **Git** y **GitHub**.
+#### 💻 Languages & Frameworks
 
-## 📞 Contacto
+- **Frontend** — HTML · CSS · Sass · JavaScript · TypeScript · React.js · Vue.js · Remix
+- **Backend** — Node.js · Express
+- **Templating** — Liquid (Shopify) · Twig (Tienda Nube)
 
-* Email: serragonzalo1@gmail.com
-* Portafolio web: [https://gserra.netlify.app](https://gserra.netlify.app)
+#### 🛠 Tools & Workflow
+
+- Git & GitHub
+- Claude & Claude Code
+- VS Code
+
+#### 🏗 Architecture
+
+- MVC · Vertical Slice
+
+#### 🧠 Currently exploring
+
+- Product thinking
+- AI-powered development with Claude & Claude Code
+
+#### 📫 Contact
+
+- 🗂 Portfolio: [gserra.netlify.app](https://gserra.netlify.app)
+- ✉️ Mail: serragonzalo1@gmail.com
+- 📸 Instagram: [@tonchiserra](https://instagram.com/tonchiserra)
