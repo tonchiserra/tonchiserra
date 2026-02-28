@@ -4,8 +4,6 @@
 
 ### Full Stack Developer · Shopify Expert · E-Commerce Enthusiast
 
-📍 Totoras, Santa Fe, Argentina
-
 Building high-performance e-commerce experiences.
 Currently at **[Innovate Group](https://www.innovategroup.agency/en)**.
 
@@ -38,24 +36,6 @@ Building and maintaining **Shopify Plus** storefronts for global brands. Leading
 `Zumba Wear` `Nestlé` `Hey Dude` `Skechers` `Timberland` `Havaianas` `O'Neill` `Rusty` `Diadora` `SANVT` `Organic Spa` `The Candle Shop`
 
 </div>
-
----
-
-## 🚀 Side Projects
-
-### [shopirun](https://www.npmjs.com/package/shopirun)
-A CLI tool to streamline Shopify theme development and deployment workflows. Run commands interactively or directly from the terminal to manage your Shopify themes with ease.
-
-```bash
-npm i -g shopirun
-```
-
-> 📦 1,447+ total downloads
-
-### [Platita](https://app-platita.vercel.app/)
-A personal finance app to track expenses, income, investments, and net worth — all in one place. Features real-time exchange rates, interactive charts, and monthly breakdowns.
-
-Built with: `Next.js` `React` `Supabase` `TypeScript` `Recharts`
 
 ---
 
@@ -107,21 +87,3 @@ Built with: `Next.js` `React` `Supabase` `TypeScript` `Recharts`
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-<div align="center">
-
-### 📬 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gserra.netlify.app-000?style=for-the-badge)](https://gserra.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serragonzalo)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serragonzalo1@gmail.com)
-
----
-
-_Built with 🤍 by Gonzalo Serra_
-
-</div>
